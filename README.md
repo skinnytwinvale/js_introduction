@@ -1,1 +1,1 @@
-#Variables and Primitive Data Types
+# JS Introduction
